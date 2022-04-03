@@ -50,15 +50,23 @@ Social Reputation is calculated through a multiplier system. The highest point a
 Refer to the table below:
 
  - Start off with 10 points, you cannot go above 10 points 
- -  10,000 Followers: 0.50 x multiplier 
- -  5,000 Followers: 0.40 x multiplier 
- -  2,500 Followers: 0.30 x multiplier 
- -  1,000 Followers: 0.25 x multiplier 
- - 500 Followers: 0.20 x multiplier
- - 200 Followers: 0.15 x multiplier 
- -  100 Followers: 0.10 x multiplier 
- - 10 Followers: 0.5 x multiplier 
- - 10 Followers: 0 x multiplier 
+
+
+Social Reputation Calculation: 
+ - Start off with 10 points, you cannot go above 10 points  
+
+| Followers     | Multiplier    |  
+| ------------- |:-------------:|  
+| 10,000        | 0.50          |  
+| 5,000         | 0.40          |  
+| 2,500         | 0.30          |  
+| 1,000         | 0.25          |  
+| 500           | 0.20          |  
+| 200           | 0.15          |  
+| 100           | 0.10          |  
+| 10            | 0.5           |  
+| < 10          | 0             |   
+
 
 After calculating the raw score, add 5 points if they have their twitter linked.
 | Level         | Points        |  
